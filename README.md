@@ -1,2 +1,2 @@
-# http//ricardobmourao/projetoblog/index.html
+# http://github.com/ricardobmourao/index.html
 my blog
