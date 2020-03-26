@@ -1,2 +1,2 @@
-# http://projetoblog
+# projetoblog
 my blog
